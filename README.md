@@ -1,0 +1,2 @@
+# Dictionary
+AI powered translator
